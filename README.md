@@ -1,3 +1,8 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmadkodehode&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+
+
+
+
 - 👋 Hi, I’m @Ahmadkodehode
 - 👀 I’m interested in  ...
 - 🌱 I’m currently learning JavaScript...
